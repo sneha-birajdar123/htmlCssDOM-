@@ -1,0 +1,10 @@
+entities
+url encode
+html vs xhtml
+html canvas
+html svg
+plugins
+web workers and sse.
+
+expamples and references no need
+
